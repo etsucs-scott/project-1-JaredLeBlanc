@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Cli", "AdventureGame.Cli\AdventureGame.Cli.csproj", "{664FD8F9-F9FF-4E3B-934D-3E62BB0758A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Core", "AdventureGame.Core\AdventureGame.Core.csproj", "{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		..\..\..\..\..\OneDrive\Desktop\AdventureGame_UML.png = ..\..\..\..\..\OneDrive\Desktop\AdventureGame_UML.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664FD8F9-F9FF-4E3B-934D-3E62BB0758A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664FD8F9-F9FF-4E3B-934D-3E62BB0758A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664FD8F9-F9FF-4E3B-934D-3E62BB0758A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664FD8F9-F9FF-4E3B-934D-3E62BB0758A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F388F2-CA3C-478D-A2D4-87774743200E}
+	EndGlobalSection
+EndGlobal
