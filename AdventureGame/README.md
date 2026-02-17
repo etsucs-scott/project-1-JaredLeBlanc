@@ -61,7 +61,7 @@ Git Usage Notes:
 
 	Clone:
 
-	- git clone <>
+	- git clone <https://github.com/etsucs-scott/project-1-JaredLeBlanc.git>
 
 	Build:
 
