@@ -14,8 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +32,7 @@
               "RelativeDocumentMoniker": "ZooModel\\Program.cs",
               "ToolTip": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\ZooModel\\ZooModel\\Program.cs",
               "RelativeToolTip": "ZooModel\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwGwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA6wGwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T20:39:14.923Z",
               "EditorCaption": ""

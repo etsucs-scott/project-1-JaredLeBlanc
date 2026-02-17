@@ -1,6 +1,6 @@
 Build & Run
 
-	git clone <repo>
+	git clone <https://github.com/etsucs-scott/project-1-JaredLeBlanc.git>
 	cd AdventureGame
 	dotnet build
 	dotnet run --project AdventureGame.Cli
