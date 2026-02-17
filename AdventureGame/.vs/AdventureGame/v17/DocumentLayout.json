@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}|AdventureGame.Core\\AdventureGame.Core.csproj|c:\\users\\jerbe\\source\\repos\\etsucs-scott\\project-1-jaredleblanc\\adventuregame\\adventuregame.core\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}|AdventureGame.Core\\AdventureGame.Core.csproj|solutionrelative:adventuregame.core\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameEngine.cs",
-              "DocumentMoniker": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\AdventureGame.Core\\GameEngine\\GameEngine.cs",
-              "RelativeDocumentMoniker": "AdventureGame.Core\\GameEngine\\GameEngine.cs",
-              "ToolTip": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\AdventureGame.Core\\GameEngine\\GameEngine.cs*",
-              "RelativeToolTip": "AdventureGame.Core\\GameEngine\\GameEngine.cs*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:44:11.477Z",
-              "EditorCaption": ""
             }
           ]
         }
