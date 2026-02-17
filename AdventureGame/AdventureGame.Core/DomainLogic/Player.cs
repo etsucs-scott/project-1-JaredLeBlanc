@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
+    // class to create the player object and implement ICharacter.
     public class Player : ICharacter
     {
         const int BaseDamage = 10;

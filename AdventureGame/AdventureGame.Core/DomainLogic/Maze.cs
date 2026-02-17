@@ -27,6 +27,7 @@ namespace AdventureGame.Core.DomainLogic
             Generate();
         }
 
+        // generate the maze
         public void Generate()
         {
 
@@ -68,6 +69,7 @@ namespace AdventureGame.Core.DomainLogic
             PlaceRandom(TileType.Exit);
         }
 
+        // adds border walls all around the map
         public void AddBorderWalls()
         {
             for (int x = 0; x < Width; x++)
@@ -83,6 +85,8 @@ namespace AdventureGame.Core.DomainLogic
             }
         }
 
+        // place random tiles everytime you start the game.
+        // Map will be differnt every time.
         public Tile PlaceRandom(TileType type)
         {
             int x, y;

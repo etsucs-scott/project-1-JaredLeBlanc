@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documents{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documents{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-17T01:56:21.455Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

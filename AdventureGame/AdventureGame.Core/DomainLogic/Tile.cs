@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
+    // class for the tile object
     public class Tile
     {
         public TileType Type { get; set; }
@@ -17,6 +18,7 @@ namespace AdventureGame.Core.DomainLogic
             Type = type;
         }
 
+        // clears a tile spot
         public void Clear()
         {
             Type = TileType.Empty;

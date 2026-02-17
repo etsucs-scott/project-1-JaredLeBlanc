@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
+    // class to create the potion object and have it inherit the Item class.
     public class Potion : Item
     {
         const int HealAmount = 20;

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
+    // class to create Weapon object and have it inherit from Item Class
     public class Weapon : Item
     {
         public int AttackModifier { get; }

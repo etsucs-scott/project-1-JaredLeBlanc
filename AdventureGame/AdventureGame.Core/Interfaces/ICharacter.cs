@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.Interfaces
 {
+    // Interface for player and monster
     public interface ICharacter
     {
         int Health { get; }

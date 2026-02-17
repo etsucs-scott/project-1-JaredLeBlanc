@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documents{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documents{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}|AdventureGame.Core\\AdventureGame.Core.csproj|c:\\users\\jerbe\\source\\repos\\etsucs-scott\\project-1-jaredleblanc\\adventuregame\\adventuregame.core\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF34CCD-1CC2-41A0-AFA9-F59D62B9F8E9}|AdventureGame.Core\\AdventureGame.Core.csproj|solutionrelative:adventuregame.core\\gameengine\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAD8AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-17T03:47:58.382Z",
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\AdventureGame.Core\\GameEngine\\GameEngine.cs",
+              "RelativeDocumentMoniker": "AdventureGame.Core\\GameEngine\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\jerbe\\source\\repos\\etsucs-scott\\project-1-JaredLeBlanc\\AdventureGame\\AdventureGame.Core\\GameEngine\\GameEngine.cs*",
+              "RelativeToolTip": "AdventureGame.Core\\GameEngine\\GameEngine.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:44:11.477Z",
               "EditorCaption": ""
             }
           ]

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
+    // class to create the monster object and implement ICharacter
     public class Monster : ICharacter 
     {
         const int BaseDamage = 8;

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.GameEngine
 {
+    // class to create GameEngine object.
     public class GameEngine
     {
         public Player Player { get; }

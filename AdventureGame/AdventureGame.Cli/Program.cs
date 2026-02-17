@@ -4,6 +4,7 @@ using AdventureGame.Core.GameEngine;
 
 namespace AdventureGame.Cli 
 {
+    // Main Game console to use the game engine and render the ui to the console.
    class Program
     {
         static void Main()
@@ -31,6 +32,7 @@ namespace AdventureGame.Cli
             Console.WriteLine("\nGame Over!");
         }
 
+        // renders the game engine to the console.
         static void Render(GameEngine game)
         {
             Console.WriteLine(game.LastMessage);

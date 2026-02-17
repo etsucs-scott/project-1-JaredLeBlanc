@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Core.DomainLogic
 {
-    
+    // an abstract class for item because it has yet to become a weapon or potion.
     public abstract class Item
     {
         public string Name { get; set; }
@@ -20,6 +20,5 @@ namespace AdventureGame.Core.DomainLogic
         }
 
         public abstract void ApplyEffect(Player player);
-
     }
 }
