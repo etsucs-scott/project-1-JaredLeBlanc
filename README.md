@@ -1,43 +1,72 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2QC0Bpz-)
-# CSCI 1260 — Project
+Build & Run
 
-## Project Instructions
-All project requirements, grading criteria, and submission details are provided on **D2L**.  
-Refer to D2L as the *authoritative source* for this assignment.
+	git clone <https://github.com/etsucs-scott/project-1-JaredLeBlanc.git>
+	cd AdventureGame
+	dotnet build
+	dotnet run --project AdventureGame.Cli
 
-This repository is intentionally minimal. You are responsible for:
-- Creating the solution and projects
-- Designing the class structure
-- Implementing the required functionality
+Controls:
 
----
+	W = Up
+	S = Down
+	A = Left
+	D = Right
 
-## Getting Started (CLI)
+Legend:
 
-You may use **Visual Studio**, **VS Code**, or the **terminal**.
+	@ = Player
+	# = Wall
+	. = Empty
+	M = Monster
+	W = Weapon
+	P = Potion
+	E = Exit
 
-### Create a solution
-```bash
-dotnet new sln -n ProjectName
-```
+Maze Format:
 
-### Create a project (example: console app)
-```bash
-dotnet new console -n ProjectName.App
-```
+	##########
+	#@..#P..W#
+	#...#..###
+	#M###.#.P#
+	#.w#..##.#
+	#.###....#
+	#...M.##.#
+	#P######E#
+	##########
 
-### Add the project to the solution
-```bash
-dotnet sln add ProjectName.App
-```
+Win/Lose Conditions:
 
-### Build and run
-```bash
-dotnet build
-dotnet run --project ProjectName.App
-```
+	Win = Reach the Exit tile.
+	Lose = Health reaches 0.
 
-## Notes
-- Commit early and commit often.
-- Your repository history is part of your submission.
-- Update this README with build/run instructions specific to your project.
+Battle Rules:
+	
+	Player Health = 100 at start.
+	Monster Health is 30-50.
+	Player always attacks first.
+	Base damage of 10 + best weapon modifier.
+	Monster attacks after player.
+	Cycle is continued until player or monster dies.
+	Not allowed to flee.
+
+UML Diagram:
+
+	FILE: 'Documents/AdventureGame_UML.png'
+	The Diagram shows:
+		- All core classes (Item, Maze, Monster, Player, Potion, Weapon, GameEngine, Etc.)
+		- Inheritance relationships (Ex. Player --> ICharacter)
+		- Fields/Properties and key methods.
+
+Git Usage Notes:
+
+	Clone:
+
+	- git clone <https://github.com/etsucs-scott/project-1-JaredLeBlanc.git>
+
+	Build:
+
+	- dotnet build
+
+	Run:
+
+	- dotnet run --project AdventureGame.Cli
