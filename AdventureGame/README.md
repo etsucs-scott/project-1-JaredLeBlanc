@@ -1,9 +1,9 @@
 Build & Run
 
-git clone <repo>
-cd AdventureGame
-dotnet build
-dotnet run --project AdventureGame.Cli
+	git clone <repo>
+	cd AdventureGame
+	dotnet build
+	dotnet run --project AdventureGame.Cli
 
 Controls:
 
